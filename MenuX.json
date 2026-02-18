@@ -4,6 +4,15 @@
       "nome": "[COLOR steelblue]FILMES LANÇAMENTOS[/COLOR]",
       "imagem": "lancamentos.png",
       "itens": [
+                {
+  "nome": "TESTE (2025)",
+  "url": "https://tugateamvod:Pmsp%4021111964@cat.seedhost.eu/tugateamvod/downloads/2025/Anaconda.2025/Anaconda.2025.mkv",
+  "imagem": "https://capa.jpg",
+  "fanart": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Terror | Suspense[/COLOR]\nDesenho animado.",
+  "legenda": "https://tugateamvod:Pmsp%4021111964@cat.seedhost.eu/tugateamvod/downloads/2025/Anaconda.2025/Anaconda.2025.srt",
+  "tipo": "filme"
+ },
         {
   "nome": "Joe e a Viagem de Carro (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a47b0c3432260442f14af06a0656223885456c20&",
