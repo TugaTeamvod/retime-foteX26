@@ -3,21 +3,22 @@
     {
       "nome": "[COLOR steelblue]FILMES LANÇAMENTOS[/COLOR]",
       "imagem": "lancamentos.png",
+      "fanart": "https://i.postimg.cc/nzsW8Dvw/Gemini-Generated-Image-abke6fabke6fabke-(1).jpg",
       "itens": [
         {
-  "nome": "Amor Demais (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e038399dd7ca1d83e22bda1e8807c75d9fd2dea0&dn",
-  "imagem": "https://image.tmdb.org/t/p/original/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
-  "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nApós a morte de seu irmão, June recomeça a vida em Milão, namorando Will, um cara perfeito da sua nova escola internacional. Mas quando o melhor amigo do rapaz, o perigoso James que participa de lutas clandestinas de MMA, desperta uma rivalidade que rapidamente se transforma numa atração irresistível, June precisa escolher entre a segurança e um amor que transforma tudo que ela pensou que queria. ",
-  "legenda": "",
+  "nome": "TESTE (2025)",
+  "url": "https://tugateamvod:Pmsp%4021111964@cat.seedhost.eu/tugateamvod/downloads/2025/Anaconda.2025/Anaconda.2025.mkv",
+  "imagem": "https://capa.jpg",
+  "fanart": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Terror | Suspense[/COLOR]\nDesenho animado.",
+  "legenda": "https://tugateamvod:Pmsp%4021111964@cat.seedhost.eu/tugateamvod/downloads/2025/Anaconda.2025/Anaconda.2025.srt",
   "tipo": "filme"
  },
         {
   "nome": "Joe e a Viagem de Carro (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a47b0c3432260442f14af06a0656223885456c20&",
   "imagem": "https://image.tmdb.org/t/p/original/vwqQbN0gCOUerdoglA96VEtYzUg.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/AaeuP8EJXVvNdJO1Nmo6ysnReiT.jpg",        
+  "fanart": "https://image.tmdb.org/t/p/original/AaeuP8EJXVvNdJO1Nmo6ysnReiT.jpg",
   "sinopse": "[COLOR yellow]Comédia[/COLOR]\n Para ensinar a B.J. como é o mundo real, Joe leva o neto em uma viagem por várias universidades dos EUA. A tensão entre os dois é grande, mas o jovem aprende lições importantes.",
   "legenda": "",
   "tipo": "filme"
@@ -26,7 +27,7 @@
   "nome": "Justiça Artificial (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d90afe159d7dd7ed5366839c056db129df787569&dn=Justi%C3%A7a%20Artificial.2026.1080p.WEB-DL.x264.DUAL.5.1",
   "imagem": "https://image.tmdb.org/t/p/original/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",        
+  "fanart": "https://image.tmdb.org/t/p/original/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
   "sinopse": "[COLOR yellow]Ficção científica, Ação, Suspense[/COLOR]\nEm um futuro próximo, um detetive é acusado de assassinar a própria esposa. Ele tem 90 minutos para provar sua inocência à avançada justiça de Inteligência Artificial que ele mesmo ajudou a implementar.",
   "legenda": "",
   "tipo": "filme"
@@ -35,7 +36,7 @@
   "nome": "Extermínio: O Templo dos Ossos (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b26d5819d2425eff4e98eae1c1d741dad82c345&dn=Exterm%C3%ADnio.O.Templo.dos.Ossos.2026",
   "imagem": "https://image.tmdb.org/t/p/original/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",       
+  "fanart": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
   "sinopse": "[COLOR yellow]Terror, Suspense, Ficção científica[/COLOR]\nDr. Kelson se vê envolvido num novo relacionamento chocante – com consequências que podem mudar o mundo como eles o conhecem – e o encontro de Spike com Jimmy Crystal se torna um pesadelo do qual ele não consegue escapar.",
   "legenda": "",
   "tipo": "filme"
@@ -50,8 +51,7 @@
           "nome": "Tron Ares (2025)",
           "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:437bc52c90f82b0e8df46c2f95e30a10158d5d9d&dn=Tron.Ares.2025.1080p.BluRay.DUAL.5.1",
           "imagem": "https://image.tmdb.org/t/p/original/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",          
-          "legenda": ""
+          "fanart": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
           "sinopse": "[COLOR yellow]Ação | Aventura[/COLOR]\nUm programa sofisticado é enviado para o mundo real.",
           "tipo": "filme"
         },
@@ -59,7 +59,7 @@
   "nome": "Predador: Terras Selvagens (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0f32b6294b51094339e22f9e4d8eb9c5470ab72&dn=Predador.Terras.Selvagens.2025",
   "imagem": "https://image.tmdb.org/t/p/original/zBoNq1EhK0CYNw7WHgJDpJ1qSQo.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",      
+  "fanart": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
   "sinopse": "[COLOR yellow]Ação, Ficção científica e Aventura[/COLOR]\nNo futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
   "legenda": "",
   "tipo": "filme"
@@ -68,7 +68,7 @@
   "nome": "A Torre Negra (2017)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b57931520b8fe02f196e8b992f1923458a48f30c&",
   "imagem": "https://image.tmdb.org/t/p/original/iuUfoGqt2elbReD4weR68ByBnmB.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",     
+  "fanart": "https://image.tmdb.org/t/p/original/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
   "sinopse": "[COLOR yellow]Ação | Fantasia | Ficção[/COLOR]\nO pistoleiro Roland Deschain percorre um cenário como o do Velho Oeste em busca de uma torre negra, com a esperança de que a alcançar salvará seu mundo moribundo.",
   "legenda": "",
   "tipo": "filme"
@@ -77,7 +77,7 @@
   "nome": "Hypnotic: Ameaça Invisível (2023)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b57931520b8fe02f196e8b992f1923458a48f30c&",
   "imagem": "https://image.tmdb.org/t/p/original/qU5OoGW31ahW9ANZU5tIwmPydKC.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/d1Vu0DRCeJ43YX98UKMi9xJNwrR.jpg",       
+  "fanart": "https://image.tmdb.org/t/p/original/d1Vu0DRCeJ43YX98UKMi9xJNwrR.jpg",
   "sinopse": "[COLOR yellow]Ação | Ficção | Suspense[/COLOR]\nDeterminado a encontrar a sua filha desaparecida, o detetive Danny Rourke se vê envolvido em uma conspiração criminosa que desafia a realidade. Contando com a ajuda de uma mulher com poderes psíquicos, Rourke segue os rastros do homem que acredita ter as respostas para encontrar sua filha.",
   "legenda": "",
   "tipo": "filme"
@@ -86,7 +86,7 @@
   "nome": "A Vigilante do Amanhã: Ghost in the Shell (2017)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:373179d9dca1ffde2701d0e9140df55b17ff987d&",
   "imagem": "https://image.tmdb.org/t/p/original/rDVB5QXh4RoYPMUCelxJEtprgy6.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/9WmLfENjz1RuL0MSMZAG3qjoYWR.jpg",      
+  "fanart": "https://image.tmdb.org/t/p/original/9WmLfENjz1RuL0MSMZAG3qjoYWR.jpg",
   "sinopse": "[COLOR yellow]Ação | Drama | Ficção[/COLOR]\nMajor (Scarlett Johansson) é um protótipo de mente humana dentro do corpo artificial. Após descobrir que seus criadores mentiram sobre sua vida passada para controlá-la, Major fará de tudo para desvendar sua verdadeira identidade e se vingar.",
   "legenda": "",
   "tipo": "filme"
@@ -95,7 +95,7 @@
   "nome": "Família de Aluguel (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1d99610cfe500a888b65e8b3f09cbf3dd7f4a39&",
   "imagem": "https://image.tmdb.org/t/p/original/ndGa8TcqXcHzNFj6spML5YtS5YB.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",    
+  "fanart": "https://image.tmdb.org/t/p/original/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
   "sinopse": "[COLOR yellow]Comédia | Drama[/COLOR]\nNeste comovente filme, Brendan Fraser interpreta um ator americano em Tóquio que busca reencontrar um propósito, até conseguir um trabalho inusitado em uma agência japonesa de “famílias de aluguel” — onde passa a interpretar papéis substitutos para desconhecidos.",
   "legenda": "",
   "tipo": "filme"
@@ -104,7 +104,7 @@
   "nome": "13 Horas: Os Soldados Secretos de Benghazi (2016)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1d99610cfe500a888b65e8b3f09cbf3dd7f4a39&",
   "imagem": "https://image.tmdb.org/t/p/original/ybNmJk4ABEjV7qeZyg586NXRy60.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/oDEYaiOj9scY28cO4XqlHLD5s0a.jpg",      
+  "fanart": "https://image.tmdb.org/t/p/original/oDEYaiOj9scY28cO4XqlHLD5s0a.jpg",
   "sinopse": "[COLOR yellow]Ação | Drama | Guerra[/COLOR]\n13 HOURS é uma eletrizante história real de seis ex-militares de elite designados para proteger a CIA, que lutaram contra todas as chances quando terroristas atacaram um complexo diplomático americano em 11 de setembro de 2012.",
   "legenda": "",
   "tipo": "filme"
@@ -113,7 +113,7 @@
   "nome": "Alerta Máximo (2023)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520b14a98f08e203a09432823de693ac16624232&",
   "imagem": "https://image.tmdb.org/t/p/original/6yuyOVARnEHZPBmaY1mDvF4woel.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",        
+  "fanart": "https://image.tmdb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",
   "sinopse": "[COLOR yellow]Ação | Drama | Guerra[/COLOR]\nO piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.",
   "legenda": "",
   "tipo": "filme"
@@ -122,18 +122,8 @@
   "nome": "Missão de Sobrevivência (2023)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520b14a98f08e203a09432823de693ac16624232&",
   "imagem": "https://image.tmdb.org/t/p/original/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/8TLkiYAUwEXInVCJ3cQVyZXChyZ.jpg",       
+  "fanart": "https://image.tmdb.org/t/p/original/8TLkiYAUwEXInVCJ3cQVyZXChyZ.jpg",
   "sinopse": "[COLOR yellow]Ação | Suspense[/COLOR]\nGerard Butler estrela este thriller cheio de ação, inspirado em fatos reais, como um agente da CIA que, junto com seu tradutor afegão, precisa escapar de um território hostil no Afeganistão depois que sua missão secreta é revelada.",
-  "legenda": "",
-  "tipo": "filme"
- },
-       {
-  "nome": "A Astronauta (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab1443650f1378ff549ebd28b694aeb6c6aa631&dn=A.Astronauta.2025",
-  "imagem": "https://image.tmdb.org/t/p/original/8GP1eCp2C2izK9TMtIdYrr77ZaP.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/wrfj52LgmanNAunu203UXxTLwD7.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/j0054QADnbjQPQxInCiWW8XLeSU.png",       
-  "sinopse": "[COLOR yellow]Ficção | Terror[/COLOR]\nQuando uma astronauta cai de volta à Terra após um acidente, um General a coloca em quarentena para reabilitação e testes. À medida que eventos perturbadores começam a acontecer, ela teme que algo extraterrestre tenha a seguido até em casa. ",
   "legenda": "",
   "tipo": "filme"
  },
@@ -142,7 +132,6 @@
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c39b0b35f14035c784f4f7604bb1f823c14769c&",
   "imagem": "https://image.tmdb.org/t/p/original/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/ax3ZZ1zY19ChEkZ45Ie7OxjTabt.png",       
   "sinopse": "[COLOR yellow]Ação | Ficção | Suspense[/COLOR]\nApós absorver uma droga poderosa, Lucy (Scarlett Johansson) adquire habilidades mentais e físicas extraordinárias. À medida que evolui além dos limites humanos, ela precisa escapar de seus perseguidores e explorar todo o potencial da mente.",
   "legenda": "",
   "tipo": "filme"
