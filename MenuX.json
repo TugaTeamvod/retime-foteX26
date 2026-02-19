@@ -4,7 +4,16 @@
       "nome": "[COLOR steelblue]FILMES LANÇAMENTOS[/COLOR]",
       "imagem": "lancamentos.png",
       "itens": [
-  
+        {
+  "nome": "Amor Demais (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e038399dd7ca1d83e22bda1e8807c75d9fd2dea0&dn",
+  "imagem": "https://image.tmdb.org/t/p/original/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/zitxuY6oOHP7rBfXqIKIK6nA0Bv.png",
+  "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nApós a morte de seu irmão, June recomeça a vida em Milão, namorando Will, um cara perfeito da sua nova escola internacional. Mas quando o melhor amigo do rapaz, o perigoso James que participa de lutas clandestinas de MMA, desperta uma rivalidade que rapidamente se transforma numa atração irresistível, June precisa escolher entre a segurança e um amor que transforma tudo que ela pensou que queria. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
         {
   "nome": "Joe e a Viagem de Carro (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a47b0c3432260442f14af06a0656223885456c20&",
