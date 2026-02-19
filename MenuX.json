@@ -121,6 +121,16 @@
   "tipo": "filme"
  },
        {
+  "nome": "A Astronauta (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab1443650f1378ff549ebd28b694aeb6c6aa631&dn=A.Astronauta.2025",
+  "imagem": "https://image.tmdb.org/t/p/original/8GP1eCp2C2izK9TMtIdYrr77ZaP.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wrfj52LgmanNAunu203UXxTLwD7.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/j0054QADnbjQPQxInCiWW8XLeSU.png",
+  "sinopse": "[COLOR yellow]Ficção | Terror[/COLOR]\nQuando uma astronauta cai de volta à Terra após um acidente, um General a coloca em quarentena para reabilitação e testes. À medida que eventos perturbadores começam a acontecer, ela teme que algo extraterrestre tenha a seguido até em casa. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+       {
   "nome": "Lucy (2014)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c39b0b35f14035c784f4f7604bb1f823c14769c&",
   "imagem": "https://image.tmdb.org/t/p/original/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg",
