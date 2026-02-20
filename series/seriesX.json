@@ -1,32 +1,95 @@
 {
   "episodios": [
-    {
-  "nome": "Invasão ao Serviço Secreto (2019)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edf73f07a940b14c0bcb7579297c309ecc822a5a&",
-  "imagem": "https://image.tmdb.org/t/p/original/k34LUdkVAU77hDKUhcTgg0HUnHh.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
-  "sinopse": "[COLOR yellow]Ação | Suspense[/COLOR]\nDedicado e sempre concentrado em seu trabalho, o agente secreto Mike Banning vê sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos.",
+ {
+  "nome": "EPISÓDIOS 01 E 02 - Dominus | Renegados",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495ef86897127f2ebba544c7e016da3a0f7da97a&",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nSem memória de sua derrocada em Spartacus: Vengeance, Ashur acorda e descobre que é dono da antiga Casa de Batiatus, agora conhecida como Casa de Ashur. ",
   "legenda": "",
   "tipo": "filme"
  },
 {
-  "nome": "Invasão a Londres (2016)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:992c71bddcf54d259ff2f2892bf83fc787266463&",
-  "imagem": "https://image.tmdb.org/t/p/original/wazDH9pNQxLzBKCZvN2iMduXxGb.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/2aXAK6WNg9ihJm8qRSrguKzgaB7.jpg",
-  "sinopse": "[COLOR yellow]Ação | Suspense[/COLOR]\nO Presidente dos Estados Unidos se reúne em Londres com vários líderes mundiais para o funeral do Primeiro Ministro Britânico. Mas quando o evento se transforma em uma armadilha mortal, fica a cargo de Mike Banning manter o Presidente seguro.",
+  "nome": "EPISÓDIO 03 Indigno",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9afb5803fc0a71bc79965fe0c23407cf0a36bbbb&",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nKorris enfrenta a fúria de Ashur e precisa se provar digno. ",
   "legenda": "",
   "tipo": "filme"
  },
-
-    {
-  "nome": "Invasão à Casa Branca (2013)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ae59c7a76271bc9d0ee9ffa2a28edaa2b23a827&",
-  "imagem": "https://image.tmdb.org/t/p/original/2JPvshfwo2xhom2Hxu88rOrgt3Q.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
-  "sinopse": "[COLOR yellow]Ação | Suspense[/COLOR]\nMike Banning é um ex-oficial do serviço secreto com um passado sujo, que tem a chance de se redimir ao se tornar a única esperança dos EUA contra terroristas que tomam o controle da residência oficial do presidente americano, a Casa Branca.",
+{
+  "nome": "EPISÓDIO 04",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nAshur faz de tudo para garantir uma vaga nos próximos Jogos Apolinários antes da iminente chegada de Marco Crasso. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "EPISÓDIO 05",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nAshur apresenta Achillia ao público, e ela enfrenta sua primeira batalha na arena. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "EPISÓDIO 06",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nA popularidade de Ashur cresce em Cápua a um preço devastador. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "EPISÓDIO 07",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nKorris exige sangue. Ashur tenta persuadir um inimigo para a sua causa. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "EPISÓDIO 08",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nAchillia se prepara para voltar à arena, enquanto Ashur enfrenta um grande contratempo. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "EPISÓDIO 09",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nCésar exige um sacrifício doloroso de Ashur. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "EPISÓDIO 10",
+  "url": "plugin://plugin.video.elementum/play?uri=",
+  "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
+  "clearlogo": "https://fundo.jpg",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nAchillia retorna à arena para enfrentar seu maior desafio, enquanto Ashur luta com as consequências emocionais de seus atos. ",
   "legenda": "",
   "tipo": "filme"
  }
+
   ]
 }
