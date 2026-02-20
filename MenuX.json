@@ -69,6 +69,26 @@
       "imagem": "filmes.png",
       "itens": [
         {
+  "nome": "A Astronauta (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:055324ea497876f75243c9c199bfd5ae182e9839&",
+  "imagem": "https://image.tmdb.org/t/p/original/zcsPsj5uwK8MzGmTDrUtjqNGMQZ.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/j0054QADnbjQPQxInCiWW8XLeSU.png",
+  "sinopse": "[COLOR yellow]Ficção | Suspense | Terror[/COLOR]\nApós completar sua missão espacial, a astronauta Sam Walker é isolada em instalação de segurança máxima da NASA para monitoramento médico e readaptação. Ela começa a suspeitar que uma entidade alienígena tenha retornado com ela à Terra. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+        {
+  "nome": "Sobrenatural: A Porta Vermelha (2023)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3d4ca89749ca5e7e19a872fac700fe44085b968&",
+  "imagem": "https://image.tmdb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/xDSaFeBsGgwi0XYxzFFXqgGSSvQ.png",
+  "sinopse": "[COLOR yellow]Suspense | Terror[/COLOR]\nPara colocar seus demônios para trás de uma vez por todas, Josh e um agora jovem universitário Dalton precisar ir o mais fundo que já estiveram no Além, encarando de frente o passado sombrio de sua família e encontrando novos protagonistas dos mais profundos medos que se escondem atrás da porta vermelha. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+        {
   "nome": "Irmãos de Orfanato (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bb1810e69040229ce149bc834462d9c625d20bd&",
   "imagem": "https://image.tmdb.org/t/p/original/q7KtsPpZqohK4QptNA2Yaa77WIn.jpg",
@@ -222,21 +242,25 @@
       "imagem": "animacao.png",
       "itens": [
         {
-          "nome": "Tron Ares (2025)",
-          "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:437bc52c90f82b0e8df46c2f95e30a10158d5d9d&dn=Tron.Ares.2025.1080p.BluRay.DUAL.5.1",
-          "imagem": "https://image.tmdb.org/t/p/original/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
-          "sinopse": "[COLOR yellow]Ação | Aventura[/COLOR]\nUm programa sofisticado é enviado para o mundo real.",
-          "tipo": "filme"
-        },
-        {
-          "nome": "Tron Ares (2025)",
-          "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:437bc52c90f82b0e8df46c2f95e30a10158d5d9d&dn=Tron.Ares.2025.1080p.BluRay.DUAL.5.1",
-          "imagem": "https://image.tmdb.org/t/p/original/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
-          "sinopse": "[COLOR yellow]Ação | Aventura[/COLOR]\nUm programa sofisticado é enviado para o mundo real.",
-          "tipo": "filme"
-        }
+  "nome": "O Grilo e a Formiga (2023)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77f5798ae1b2c703b94e5829d7586507fa7dd6ba&",
+  "imagem": "https://image.tmdb.org/t/p/original/9U4oa0E53WcEERxqOLl0enyzH2J.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/hI5q9lZ8CLMLwvINRjNL9f2nNeo.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/cCDE4W997vSzwOfQdRr6P16oOJC.png",
+  "sinopse": "[COLOR yellow]Animação | Aventura | Comédia[/COLOR]\nEm uma cidade vibrante, um grilo apaixonado por música e uma formiga dedicada ao trabalho formam uma amizade inesperada. Juntos, eles desafiam as normas impostas por suas sociedades e descobrem o valor da colaboração e compreensão mútua. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "O Menino Golfinho (2022)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec92f9d95c413ed4fc4761f7430d94efd5134f11&",
+  "imagem": "https://image.tmdb.org/t/p/original/uFukymSzBArTvmqtiKQgUG4qqWd.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/lRT5WiQhX7oBINWKMICoupHO5is.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/6AaBnoIJTnpzmXO46BLEkJf4o9U.png",
+  "sinopse": "[COLOR yellow]Animação | Aventura[/COLOR]\nUm menino é resgatado e criado por um golfinho, mas um dia decide que irá procurar sua mãe. Em meio à sua busca, um polvo malvado aparece em seu caminho. ",
+  "legenda": "",
+  "tipo": "filme"
+ }
       ]
     }
   ]
