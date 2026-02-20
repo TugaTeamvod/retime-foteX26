@@ -207,11 +207,11 @@
       "imagem": "series.png",
       "itens": [
         {
-          "nome": "The Last of Us - 1ª Temporada",
-          "url": "https://codeberg.org/TugaTeamvod/Primeiro/raw/branch/main/Top/Series/episodios.json",
-          "imagem": "https://image.tmdb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg",
-          "sinopse": "Joel e Ellie cruzam os EUA.",
+          "nome": "Spartacus: House of Ashur 1ª Temporada (2025)",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/series/SpartacusX.json",
+          "imagem": "https://image.tmdb.org/t/p/original/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
+          "sinopse": "E se Ashur tivesse sobrevivido e ganhado o ludus onde antes sangrou? Com Achillia, uma gladiadora, ele cria espetáculos que desafiam Roma e chocam a elite.",
           "tipo": "serie"
         }
       ]
