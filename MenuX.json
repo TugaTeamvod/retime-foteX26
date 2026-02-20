@@ -69,6 +69,16 @@
       "imagem": "filmes.png",
       "itens": [
         {
+  "nome": "Irmãos de Orfanato (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bb1810e69040229ce149bc834462d9c625d20bd&",
+  "imagem": "https://image.tmdb.org/t/p/original/q7KtsPpZqohK4QptNA2Yaa77WIn.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/8umlXf2x6b5opp66mVq0dKwyOSE.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/9Twd7wessGDuYGMv47Bxv8q9Hb3.png",
+  "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nDois amigos de infância precisam superar as diferenças quando a mulher que amavam morre em um acidente de carro suspeito e a filha adolescente dela busca vingança. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+        {
           "nome": "Tron Ares (2025)",
           "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:437bc52c90f82b0e8df46c2f95e30a10158d5d9d&dn=Tron.Ares.2025.1080p.BluRay.DUAL.5.1",
           "imagem": "https://image.tmdb.org/t/p/original/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
