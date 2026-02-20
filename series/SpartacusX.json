@@ -1,7 +1,7 @@
 {
   "episodios": [
  {
-  "nome": "EPISÓDIOS 01 E 02 - Dominus | Renegados",
+  "nome": "EPISÓDIOS 01 E 02",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495ef86897127f2ebba544c7e016da3a0f7da97a&",
   "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
@@ -11,7 +11,7 @@
   "tipo": "filme"
  },
 {
-  "nome": "EPISÓDIO 03 Indigno",
+  "nome": "EPISÓDIO 03",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9afb5803fc0a71bc79965fe0c23407cf0a36bbbb&",
   "imagem": "https://image.tmdb.org/t/p/original/uYlq9Ii0CCWXGAzTRvHR99lyvwh.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg",
