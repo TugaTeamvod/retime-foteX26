@@ -6,6 +6,26 @@
       "fanart": "https://i.postimg.cc/nzsW8Dvw/Gemini-Generated-Image-abke6fabke6fabke-(1).jpg",
       "itens": [
         {
+  "nome": "Corta-fogo (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a04de8e67a581fb645e729ee33e3d946b3f302de&",
+  "imagem": "https://image.tmdb.org/t/p/original/6V0FLzciqJh7d1Y4zXyyqLAKnTs.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7QWDyBC6kbUYdalWwmJulfVmoLr.png",
+  "sinopse": "[COLOR yellow]Drama | Mistério | Suspense[/COLOR]\n A filha de Mara desaparece enquanto um incêndio se alastra. Com as chamas se aproximando, ela precisa confrontar seus piores medos e encontrá-la antes que seja tarde demais. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+        {
+  "nome": "Pavana (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4854ebf1a23a9ab07462bdf8bbc9ba5660617dab&",
+  "imagem": "https://image.tmdb.org/t/p/original/onUWCAs2uhNuUX5nY2wiEHAfR3T.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/aCQZupI2IvAsCVK32fzDnq41Vyj.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Drama | Romance[/COLOR]\nKo A-sung (Samjin Company English Class) interpreta a solitária Mi-jeong, que faz novas amizades no trabalho e descobre que merece amar e ser amada. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+        {
   "nome": "Amor Demais (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e038399dd7ca1d83e22bda1e8807c75d9fd2dea0&dn",
   "imagem": "https://image.tmdb.org/t/p/original/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg",
