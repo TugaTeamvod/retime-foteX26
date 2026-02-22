@@ -207,7 +207,7 @@
       "imagem": "colecao.png",
       "itens": [
         {
-          "nome": "Coleção Invasão",
+          "nome": "Coleção: Invasão",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/colecao/tt2302755.json",
           "imagem": "https://image.tmdb.org/t/p/original/kSHvhQ6RpmNgEfYEUqmPHEZbwxz.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg",
@@ -215,11 +215,11 @@
           "tipo": "serie"
         },
         {
-          "nome": "Coleção DC",
-          "url": "https://codeberg.org/TugaTeamvod/Primeiro/raw/branch/main/Top/dc/universoDC.json",
+          "nome": "Coleção: Jogos Vorazes",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/colecao/tt1392170.json",
           "imagem": "https://image.tmdb.org/t/p/original/7v9SUn6VpY6Y0Xf4qS29AOCm9i.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/mDf93ShtLZ66Yv7993M3mubpC96.jpg",
-          "sinopse": "Todos os filmes do MCU.",
+          "fanart": "https://image.tmdb.org/t/p/original/xP8RXTiHejr0qN9PdOFdZvX4MGG.jpg",
+          "sinopse": "Katniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.",
           "tipo": "serie"
         }
       ]
