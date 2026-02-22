@@ -235,6 +235,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
           "sinopse": "[COLOR yellow]Ação | Drama[/COLOR]\nE se Ashur tivesse sobrevivido e ganhado o ludus onde antes sangrou? Com Achillia, uma gladiadora, ele cria espetáculos que desafiam Roma e chocam a elite.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Espíritos na Escola (2023) 1ª Temporada (2025)",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/series/School.Spirits.json",
+          "imagem": "https://image.tmdb.org/t/p/original/t1UMiOLjfoe37HZuBnPU9ZveXkX.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/A6biiToqBbtL2uDxJDYqCjDOSU2.jpg",
+          "sinopse": "[COLOR yellow]Mistério | Drama[/COLOR]\nUma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.",
+          "tipo": "serie"
         }
       ]
     },
