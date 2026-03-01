@@ -280,6 +280,14 @@
       "imagem": "colecao.png",
       "itens": [
         {
+          "nome": "Coleção: Avatar",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/colecao/avatar.json",
+          "imagem": "https://image.tmdb.org/t/p/original/hTVPagqC5eJkXNEw6ynkJuNgDZe.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/i7wJUZCq3L3cuH5PLum6jqbG0pr.jpg",
+          "sinopse": "Série de filmes de ficção científica que tem seu enredo localizado no ano 2154 e é baseado em um conflito em Pandora entre os colonizadores humanos e os Na'vi, nativos humanoides. Pandora é uma das luas de Polifemo, um dos três planetas gasosos fictícios que orbitam o sistema Alpha Centauri.",
+          "tipo": "serie"
+        },
+        {
           "nome": "Coleção: Invasão",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/colecao/tt2302755.json",
           "imagem": "https://image.tmdb.org/t/p/original/kSHvhQ6RpmNgEfYEUqmPHEZbwxz.jpg",
