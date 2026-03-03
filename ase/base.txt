@@ -1,1 +1,1 @@
-qre
+url="https://github.com/Napalm-spec/maxplay/raw/master/Base/maximus.db"
