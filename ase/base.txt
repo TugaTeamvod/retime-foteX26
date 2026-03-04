@@ -1,1 +1,1 @@
-url="https://github.com/TugaTeamvod/retime-foteX26/raw/refs/heads/main/ase/MovieGo.db"
+url="https://github.com/TugaTeamvod/retime-foteX26/raw/refs/heads/main/ase/maximus.db"
