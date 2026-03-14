@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>X-Boom Radio - MuzicaOK Live</title>
+    <style>
+        body { background-color: #050505; color: white; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: 'Segoe UI', sans-serif; }
+        
+        .main-wrapper { display: flex; align-items: center; gap: 20px; background: #111; padding: 30px; border-radius: 20px; border: 1px solid #222; box-shadow: 0 0 40px rgba(255,0,0,0.3); }
+
+        /* Torres Laterais */
+        .tower { width: 130px; display: flex; flex-direction: column; gap: 25px; }
+        .speaker { 
+            width: 110px; height: 110px; border-radius: 50%; border: 6px solid #333; 
+            background: radial-gradient(circle, #222 20%, #000 80%); position: relative;
+            transition: transform 0.05s cubic-bezier(0.17, 0.67, 0.83, 0.67); margin: 0 auto;
+        }
+        .speaker::after { content: "X"; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: red; font-weight: bold; font-size: 24px; text-shadow: 0 0 10px red; }
+
+        /* Console Central */
+        .console { width: 300px; background: #000; border: 2px solid #444; padding: 20px; text-align: center; border-radius: 10px; }
+        
+        /* Capa da Música */
+        .album-art {
+            width: 130px; height: 130px; margin: 0 auto 15px;
+            border: 3px solid #ff0000; border-radius: 10px;
+            background-image: url('https://via.placeholder.com/130?text=MuzicaOK');
+            background-size: cover; background-position: center;
+            box-shadow: 0 0 15px rgba(255,0,0,0.5);
+        }
+
+        #canvas { width: 100%; height: 50px; background: #000; margin-bottom: 10px; }
+
+        .display { 
+            background: #050505; color: #ff0000; padding: 12px; font-family: 'Courier New', monospace; 
+            border: 1px solid #333; margin-bottom: 15px; border-radius: 5px;
+            min-height: 45px; display: flex; align-items: center; justify-content: center;
+            font-size: 13px; font-weight: bold; text-align: center;
+        }
+        
+        .controls button { 
+            background: linear-gradient(to bottom, #ff0000, #990000); color: white; border: none; 
+            padding: 12px 35px; cursor: pointer; font-weight: bold; border-radius: 50px;
+            box-shadow: 0 4px 0 #660000; transition: 0.2s; text-transform: uppercase;
+        }
+        .controls button:active { transform: translateY(3px); box-shadow: none; }
+        
+        /* Classe de Vibração (Pulsação) */
+        .vibrate { transform: scale(1.1); border-color: #ff4444; box-shadow: 0 0 25px rgba(255,0,0,0.6); }
+    </style>
+</head>
+<body>
+
+<div class="main-wrapper">
+    <div class="tower">
+        <div class="speaker" id="s1"></div>
+        <div class="speaker" id="s2"></div>
+    </div>
+
+    <div class="console">
+        <div class="album-art" id="cover"></div>
+        <canvas id="canvas"></canvas>
+        <div class="display">
+            <div id="track-title">CLIQUE NO PLAY</div>
+        </div>
+        <div class="controls">
+            <button id="playPause">Play</button>
+        </div>
+    </div>
+
+    <div class="tower">
+        <div class="speaker" id="s3"></div>
+        <div class="speaker" id="s4"></div>
+    </div>
+</div>
+
+<script>
+    // Configuração do Áudio com Proxy para evitar erro de CORS
+    const rawStream = "https://asculta.muzicaok.de:8022/stream";
+    const streamUrl = "https://corsproxy.io/?url=" + encodeURIComponent(rawStream);
+    const statsUrl = "https://asculta.muzicaok.de/api/nowplaying/1";
+
+    const audio = new Audio(streamUrl);
+    audio.crossOrigin = "anonymous"; // Importante para o analisador funcionar
+
+    const btn = document.getElementById('playPause');
+    const trackTitle = document.getElementById('track-title');
+    const coverImg = document.getElementById('cover');
+    const speakers = [document.getElementById('s1'), document.getElementById('s2'), document.getElementById('s3'), document.getElementById('s4')];
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+
+    let audioCtx, analyser, source, dataArray;
+
+    async function updateMetadata() {
+        try {
+            const response = await fetch(statsUrl);
+            const data = await response.json();
+            const song = data.now_playing.song;
+            trackTitle.innerText = `${song.artist} - ${song.title}`;
+            if (song.art) coverImg.style.backgroundImage = `url('${song.art}')`;
+        } catch (e) { console.log("Erro metadados"); }
+    }
+
+    function setupAudio() {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        analyser = audioCtx.createAnalyser();
+        source = audioCtx.createMediaElementSource(audio);
+        source.connect(analyser);
+        analyser.connect(audioCtx.destination);
+        
+        analyser.fftSize = 128;
+        dataArray = new Uint8Array(analyser.frequencyBinCount);
+        draw();
+    }
+
+    function draw() {
+        requestAnimationFrame(draw);
+        analyser.getByteFrequencyData(dataArray);
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        let x = 0;
+        let barWidth = (canvas.width / dataArray.length) * 2.5;
+
+        for(let i = 0; i < dataArray.length; i++) {
+            let barHeight = dataArray[i] / 3;
+            ctx.fillStyle = `rgb(${barHeight + 120}, 0, 0)`;
+            ctx.fillRect(x, canvas.height - barHeight, barWidth, barHeight);
+            x += barWidth + 2;
+        }
+
+        // Lógica de vibração das colunas baseada nos graves
+        // Somamos as frequências baixas (índices 1 a 4)
+        let bassValue = dataArray[1] + dataArray[2] + dataArray[3];
+        
+        if(bassValue > 350) { // Ajuste este número se quiser mais ou menos sensibilidade
+            speakers.forEach(s => s.classList.add('vibrate'));
+        } else {
+            speakers.forEach(s => s.classList.remove('vibrate'));
+        }
+    }
+
+    btn.addEventListener('click', () => {
+        if (!audioCtx) {
+            setupAudio();
+            setInterval(updateMetadata, 10000);
+        }
+        
+        if (audio.paused) {
+            audio.play();
+            btn.innerText = "Pause";
+            updateMetadata();
+        } else {
+            audio.pause();
+            btn.innerText = "Play";
+        }
+    });
+</script>
+
+</body>
+</html>
