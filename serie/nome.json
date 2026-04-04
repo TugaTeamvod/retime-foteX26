@@ -1,12 +1,16 @@
 {
   "episodios": [
     {
-      "nome": "1x01 - Nome do Episódio 1",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP1",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 1.",
-      "tipo": "filme"
-    },
+  "nome": "Avatar: Fogo e Cinzas (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d0871103e2bc3a941b091073b7f3a0486ca2654&",
+  "imagem": "https://image.tmdb.org/t/p/original/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/5bLPY2CfYiUxc4k1MCVumxhd5NI.png",
+  "sinopse": "[COLOR yellow]Ficção-Científica, Aventura, Fantasia[/COLOR]\nApós a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na’vi violenta e sedenta por poder, liderada pelo implacável Varang. A família de Jake deve lutar por sua sobrevivência e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e físicos. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+
     {
       "nome": "1x02 - Nome do Episódio 2",
       "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
