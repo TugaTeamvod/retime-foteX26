@@ -26,7 +26,7 @@
       "itens": [
         {
           "nome": "Minha Série Favorita",
-          "url": "https://raw.githubusercontent.com/.../episodios_serie.json",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
           "imagem": "https://poster-da-serie.jpg",
           "tipo": "serie"
         }
