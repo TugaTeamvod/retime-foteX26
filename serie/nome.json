@@ -1,0 +1,18 @@
+{
+  "episodios": [
+    {
+      "nome": "1x01 - Nome do Episódio 1",
+      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP1",
+      "imagem": "https://thumb-do-episodio.jpg",
+      "sinopse": "Resumo do episódio 1.",
+      "tipo": "filme"
+    },
+    {
+      "nome": "1x02 - Nome do Episódio 2",
+      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
+      "imagem": "https://thumb-do-episodio.jpg",
+      "sinopse": "Resumo do episódio 2.",
+      "tipo": "filme"
+    }
+  ]
+}
