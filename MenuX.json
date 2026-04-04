@@ -12,10 +12,58 @@
           "tipo": "serie"
         },
         {
-          "nome": "Nome do Filme 2",
-          "url": "https://link-do-video-2.mkv",
-          "imagem": "https://poster-do-filme-2.jpg",
-          "legenda": "https://link-da-legenda.srt"
+          "nome": "Ação",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Aventura",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Comédia",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Drama",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Fantasia",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Ficção Cientifica",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Mistério",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Suspense",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Terror",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
         }
       ]
     },
