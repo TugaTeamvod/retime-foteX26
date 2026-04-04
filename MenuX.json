@@ -1,0 +1,36 @@
+{
+  "categorias": [
+    {
+      "nome": "Filmes de Ação",
+      "imagem": "https://link-da-imagem.jpg",
+      "fanart": "https://link-da-fanart.jpg",
+      "itens": [
+        {
+          "nome": "Nome do Filme 1",
+          "url": "https://link-do-video.mp4",
+          "imagem": "https://poster-do-filme.jpg",
+          "sinopse": "Breve descrição do filme.",
+          "tipo": "filme"
+        },
+        {
+          "nome": "Nome do Filme 2",
+          "url": "https://link-do-video-2.mkv",
+          "imagem": "https://poster-do-filme-2.jpg",
+          "legenda": "https://link-da-legenda.srt"
+        }
+      ]
+    },
+    {
+      "nome": "Séries",
+      "imagem": "series_icon.png",
+      "itens": [
+        {
+          "nome": "Minha Série Favorita",
+          "url": "https://raw.githubusercontent.com/.../episodios_serie.json",
+          "imagem": "https://poster-da-serie.jpg",
+          "tipo": "serie"
+        }
+      ]
+    }
+  ]
+}
