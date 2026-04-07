@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+  "nome": "A Noiva! (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db56083e578c6f7cf5e0fcf00a9d6ff7fde99822&",
+  "imagem": "https://image.tmdb.org/t/p/original/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7zKbWbyoQ0NmQ4i0V6UROh3enbx.png",
+  "sinopse": "[COLOR yellow]Suspense, Ficção, Terror[/COLOR]\nFrankenstein (Bale) vai à Chicago dos anos 1930 para pedir à inovadora cientista Dra. Euphronious (Annette Bening, indicada ao Oscar) que crie uma companheira para ele. Eles ressuscitam uma jovem assassinada; assim nasce A Noiva (Buckley). O que se segue vai muito além do imaginável: assassinato! Possessão! Um movimento cultural selvagem! E amantes fora da lei em um romance explosivo e intenso! ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+    {
   "nome": "O Atirador: Sem Nação (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0123bb969ddd0a1d7ecb0495c293c5bee1eb6a48&",
   "imagem": "https://image.tmdb.org/t/p/original/9PQEkIobUQ2euijeNn1WqOnwPy7.jpg",
@@ -12,22 +22,32 @@
  },
     {   
   "nome": "Avatar: Fogo e Cinzas (2026)",
-  "url": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0F2YXRhci5GaXJlLkFuZC5Bc2guMjAyNS9BdmF0YXIuRmlyZS5BbmQuQXNoLjIwMjUubWt2",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e806ba2e3c5d4a0cb7ab37ab62f1067e86fe161f&",
   "imagem": "https://image.tmdb.org/t/p/original/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
   "clearlogo": "https://image.tmdb.org/t/p/original/5bLPY2CfYiUxc4k1MCVumxhd5NI.png",
   "sinopse": "[COLOR yellow]Ficção-Científica, Aventura, Fantasia[/COLOR]\nApós a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na’vi violenta e sedenta por poder, liderada pelo implacável Varang. A família de Jake deve lutar por sua sobrevivência e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e físicos. ",
-  "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0F2YXRhci5GaXJlLkFuZC5Bc2guMjAyNS9BdmF0YXIuRmlyZS5BbmQuQXNoLjIwMjUuc3J0",
+  "legenda": "",
   "tipo": "filme"
  },
  {
+  "nome": "É Quase Verdade (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd7183702d3af32410cf5c90b64e3f33c13b4c02&",
+  "imagem": "https://image.tmdb.org/t/p/original/aYLSUuloTcDS273R9NJwcqDjVJ8.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/87RLIfmaLHDUzWIGkf9sUpFGt6o.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7zKbWbyoQ0NmQ4i0V6UROh3enbx.png",
+  "sinopse": "[COLOR yellow]Comédia[/COLOR]\nPara não perder a casa da família, uma talentosa artista plástica engana toda uma cidade com uma farsa montada acidentalmente, o que a leva a criar situações inusitadas para manter a mentira.",
+  "legenda": "",
+  "tipo": "filme"
+ },   
+ {
   "nome": "Agente Zeta (2026)",
-  "url": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYubWt2",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2be41d3ea53407bc028e980df2bc685ebf47770d&",
   "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/jtO2Mm5X22QmJZH8YyUMmG0ZXOV.jpg",
   "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
   "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da “Operação Ciénaga” décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a “Ciénaga” do que ele.",
-  "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
+  "legenda": "",
   "tipo": "filme"
  }
   ]
