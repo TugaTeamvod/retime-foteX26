@@ -10,13 +10,24 @@
   "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
   "tipo": "filme"
  },
+ {
+  "nome": "O Atirador: Sem Nação (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0123bb969ddd0a1d7ecb0495c293c5bee1eb6a48&",
+  "imagem": "https://image.tmdb.org/t/p/original/9PQEkIobUQ2euijeNn1WqOnwPy7.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/3DaermDaRd2QP6EUiT3FYXJb2RU.png",
+  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nO atirador Brandon Beckett considerado terrorista, e rejeitado, pelo seu próprio país, vê-se forçado a embarcar numa missão impossível ao lado do seu lendário pai. Sem apoio, sem fronteiras e sem regras, os Beckett têm de enfrentar a Legião de Ferro, um exército mercenário implacável, para impedir que um regime corrupto inicie uma guerra - e provar que mesmo sem bandeira, a luta ainda importa. ",
+  "legenda": "",
+  "tipo": "filme"
+ },   
 
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
-      "tipo": "filme"
-    }
+ {
+  "nome": "1x02 - Nome do Episódio 2",
+  "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
+  "imagem": "https://thumb-do-episodio.jpg",
+  "sinopse": "Resumo do episódio 2.",
+  "tipo": "filme"
+ }
+    
   ]
 }
