@@ -1,76 +1,88 @@
 {
   "categorias": [
     {
-      "nome": "Filmes",
-      "imagem": "https://link-da-imagem.jpg",
-      "fanart": "https://link-da-fanart.jpg",
+      "nome": "● [B]Filmes[/B] ●",
+      "imagem": "https://i.postimg.cc/v82f6zVM/movi.jpg",
+      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
         {
           "nome": "Lançamentos",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Lancamento.json",
+          "imagem": "https://i.postimg.cc/ncWGpXHq/Copilot-20260322-011929.png",
           "tipo": "serie"
         },
         {
           "nome": "Ação",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Acao.json",
+          "imagem": "https://i.postimg.cc/3RbdmDbQ/Copilot_20260322_012230.png",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Animação",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Animacao.json",
+          "imagem": "https://i.postimg.cc/8k97CM6c/Copilot_20260322_012442.png",
           "tipo": "serie"
         },
         {
           "nome": "Aventura",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Aventura.json",
+          "imagem": "https://i.postimg.cc/BncbNzwT/Copilot_20260322_012900.png",
           "tipo": "serie"
         },
         {
           "nome": "Comédia",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Comedia.json",
+          "imagem": "https://i.postimg.cc/nMfVGK4Y/Copilot_20260322_013118.png",
           "tipo": "serie"
         },
         {
           "nome": "Drama",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Drama.json",
+          "imagem": "https://i.postimg.cc/CL84NjTd/Copilot_20260322_013306.png",
           "tipo": "serie"
         },
         {
           "nome": "Fantasia",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Fantasia.json",
+          "imagem": "https://i.postimg.cc/0yq0HbP3/Copilot_20260322_013457.png",
           "tipo": "serie"
         },
         {
           "nome": "Ficção Cientifica",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/FiccaoCientifica.json",
+          "imagem": "https://i.postimg.cc/k5JFqzVf/Copilot_20260322_013650.png",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Super-Heróis",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/SuperHerois.json",
+          "imagem": "https://i.postimg.cc/tT16gj9D/Copilot_20260322_014510.png",
           "tipo": "serie"
         },
         {
           "nome": "Mistério",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Misterio.json",
+          "imagem": "https://i.postimg.cc/zBMnwfxF/Copilot_20260322_013828.png",
           "tipo": "serie"
         },
         {
           "nome": "Suspense",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Suspense.json",
+          "imagem": "https://i.postimg.cc/mZvYttzD/Copilot_20260322_014037.png",
           "tipo": "serie"
         },
         {
           "nome": "Terror",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/nome.json",
-          "imagem": "https://poster-da-serie.jpg",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/Terror.json",
+          "imagem": "https://i.postimg.cc/523L7gPq/Copilot_20260322_014212.png",
           "tipo": "serie"
         }
       ]
     },
     {
-      "nome": "Séries",
-      "imagem": "series_icon.png",
-      "fanart": "https://link-da-fanart.jpg",
+      "nome": "● [B]Séries[/B] ●",
+      "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
+      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
         {
           "nome": "Minha Série Favorita",
