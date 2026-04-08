@@ -2,7 +2,7 @@
   "episodios": [
     {
   "nome": "A Noiva! (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db56083e578c6f7cf5e0fcf00a9d6ff7fde99822&",
+  "url": "plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:db56083e578c6f7cf5e0fcf00a9d6ff7fde99822&",
   "imagem": "https://image.tmdb.org/t/p/original/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
   "clearlogo": "https://image.tmdb.org/t/p/original/7zKbWbyoQ0NmQ4i0V6UROh3enbx.png",
