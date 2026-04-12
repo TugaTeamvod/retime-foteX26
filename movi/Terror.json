@@ -1,22 +1,15 @@
 {
   "episodios": [
 {
-  "nome": "Agente Zeta (2026)",
-  "url": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYubWt2",
-  "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/jtO2Mm5X22QmJZH8YyUMmG0ZXOV.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
-  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da “Operação Ciénaga” décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a “Ciénaga” do que ele.",
-  "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
+  "nome": "Ataque Brutal (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0315e3403e59d13fd508ef9fcfb6e5ef0bdbcdec&",
+  "imagem": "https://image.tmdb.org/t/p/original/fK4lTlqtiaeyoiPBoDF52ZikGyK.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/sd8CA6b4jzoJtFOHYIIGr8Z6EWn.png",
+  "sinopse": "[COLOR yellow]Terror, Suspense|[/COLOR]\nEm meio a um furacão catastrófico, uma cidade costeira luta contra a ira da natureza e um ataque de tubarões. Enfrentando chuvas torrenciais, detritos e escuridão, se unem para sobreviver aos predadores mortais e sobreviver à tempestade. ",
+  "legenda": "",
   "tipo": "filme"
- },
+ }
 
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
-      "tipo": "filme"
-    }
   ]
 }
