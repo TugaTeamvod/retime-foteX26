@@ -1,5 +1,15 @@
 {
   "episodios": [
+ {
+  "nome": "Pânico 7 (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dde95d297033485d2587f76af84df32cfcd47fd3&",
+  "imagem": "https://image.tmdb.org/t/p/original/rEevavl5vebCVEd5imx7D1k8nmV.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/5g72qKCTW85O3MPmnyfYRNp0Ak5.png",
+  "sinopse": "[COLOR yellow]Terror, Mistério, Suspense[/COLOR]\nQuando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas. ",
+  "legenda": "",
+  "tipo": "filme"
+ },   
 {
   "nome": "Ataque Brutal (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0315e3403e59d13fd508ef9fcfb6e5ef0bdbcdec&",
