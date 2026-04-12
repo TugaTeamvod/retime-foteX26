@@ -1,6 +1,16 @@
 {
   "episodios": [
   {
+  "nome": "Comer, Rezar, Ladrar (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44768c05315519e8fdd7a4f117b13451c0e7f96d&",
+  "imagem": "https://image.tmdb.org/t/p/original/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/xqM9p5t7qop0Fx60zOYcv0Yw7SX.png",
+  "sinopse": "[COLOR yellow]Comédia[/COLOR]\nNesta comédia tumultuosa, cinco donos de cães excêntricos procuram ajuda para lidar com os seus amigos de quatro patas. A sua última esperança: um curso intensivo com o carismático e lendário treinador de cães Nodon nas montanhas tirolesas. ",
+  "legenda": "",
+  "tipo": "filme"
+ },  
+  {
   "nome": "Consequência (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e55c732089b9441861af17724a11dcf2b2f223&",
   "imagem": "https://image.tmdb.org/t/p/original/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
