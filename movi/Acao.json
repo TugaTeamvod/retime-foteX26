@@ -1,5 +1,15 @@
 {
   "episodios": [
+ {
+  "nome": "Inteligência Humana (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5712ecd290d8ab342ac32ec2d80cd031f61414aa&",
+  "imagem": "https://image.tmdb.org/t/p/original/zmv8yxTmswmMZk7mUktzY9wWXcO.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/aWS8heTW7M989yEg0TArA5tRJDm.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/z96YCEShOq2ibf3XPsLxtgOQWwi.png",
+  "sinopse": "[COLOR yellow]Ação, Drama, Suspense[/COLOR]\nAo investigar um cartel russo, um agente sul-coreano fica cara a cara com um agente norte-coreano, e ambos são dragados por perigos e segredos. ",
+  "legenda": "",
+  "tipo": "filme"
+ },   
 {
   "nome": "O Atirador: Sem Nação (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0123bb969ddd0a1d7ecb0495c293c5bee1eb6a48&",
