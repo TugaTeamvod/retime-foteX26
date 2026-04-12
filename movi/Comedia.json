@@ -1,22 +1,15 @@
 {
   "episodios": [
 {
-  "nome": "Agente Zeta (2026)",
-  "url": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYubWt2",
-  "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/jtO2Mm5X22QmJZH8YyUMmG0ZXOV.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
-  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da “Operação Ciénaga” décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a “Ciénaga” do que ele.",
-  "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
+  "nome": "(Des)controle (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:323a60bdeeb025089c869a3d1441aaf66d582c46&",
+  "imagem": "https://image.tmdb.org/t/p/original/scl6uVD0YZc46WZHgXbEcaH2zYw.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4SD350fhaJ6esv665jU2b2kFHN5.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Comédia, Drama|[/COLOR]\nKátia Klein é uma escritora bem-sucedida que enfrenta uma crise criativa às vésperas da entrega do seu novo livro, ao mesmo tempo em que descobre a falência do seu casamento e administra o acúmulo das demandas dos filhos e dos pais. Sobrecarregada e em busca de alívio, ela passa de uma simples taça de vinho ao total descontrole, sendo gradualmente engolida pelos excessos do vício.",
+  "legenda": "",
   "tipo": "filme"
- },
+ }
 
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
-      "tipo": "filme"
-    }
   ]
 }
