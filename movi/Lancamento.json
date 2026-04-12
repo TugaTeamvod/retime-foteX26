@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+  "nome": "Ataque Brutal (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0315e3403e59d13fd508ef9fcfb6e5ef0bdbcdec&",
+  "imagem": "https://image.tmdb.org/t/p/original/fK4lTlqtiaeyoiPBoDF52ZikGyK.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/sd8CA6b4jzoJtFOHYIIGr8Z6EWn.png",
+  "sinopse": "[COLOR yellow]Terror, Suspense|[/COLOR]\nEm meio a um furacão catastrófico, uma cidade costeira luta contra a ira da natureza e um ataque de tubarões. Enfrentando chuvas torrenciais, detritos e escuridão, se unem para sobreviver aos predadores mortais e sobreviver à tempestade. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+    {
   "nome": "A Noiva! (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db56083e578c6f7cf5e0fcf00a9d6ff7fde99822&",
   "imagem": "https://image.tmdb.org/t/p/original/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
