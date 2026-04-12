@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+  "nome": "(Des)controle (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:323a60bdeeb025089c869a3d1441aaf66d582c46&",
+  "imagem": "https://image.tmdb.org/t/p/original/scl6uVD0YZc46WZHgXbEcaH2zYw.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/4SD350fhaJ6esv665jU2b2kFHN5.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Comédia, Drama|[/COLOR]\nKátia Klein é uma escritora bem-sucedida que enfrenta uma crise criativa às vésperas da entrega do seu novo livro, ao mesmo tempo em que descobre a falência do seu casamento e administra o acúmulo das demandas dos filhos e dos pais. Sobrecarregada e em busca de alívio, ela passa de uma simples taça de vinho ao total descontrole, sendo gradualmente engolida pelos excessos do vício.",
+  "legenda": "",
+  "tipo": "filme"
+ },
+    {
   "nome": "Ataque Brutal (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0315e3403e59d13fd508ef9fcfb6e5ef0bdbcdec&",
   "imagem": "https://image.tmdb.org/t/p/original/fK4lTlqtiaeyoiPBoDF52ZikGyK.jpg",
