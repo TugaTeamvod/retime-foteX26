@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+  "nome": "18 Rosas (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2190126c6628bfe7553e3f39122fbc37f1d8485d&",
+  "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nNeste romance de amadurecimento, o aluno novo entra em conflito com a garota mais popular da escola. Mas ele logo percebe que vai precisar dela para várias coisas.",
+  "legenda": "",
+  "tipo": "filme"
+ },
+    {
   "nome": "Consequência (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e55c732089b9441861af17724a11dcf2b2f223&",
   "imagem": "https://image.tmdb.org/t/p/original/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
