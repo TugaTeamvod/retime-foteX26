@@ -1,6 +1,46 @@
 {
   "episodios": [
     {
+  "nome": "Caminhos do Crime (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:906e5edb84a9fcf3ace6a8ecdf2402bf27785791&",
+  "imagem": "https://image.tmdb.org/t/p/original/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/biJM58Ih5jxjKN9Wiwp4NHXohks.png",
+  "sinopse": "[COLOR yellow]Crime, Drama, Suspense[/COLOR]\nUm ladrão prestes a realizar seu último grande golpe cruza o caminho de uma corretora de seguros desiludida. Enquanto os dois se envolvem, um detetive implacável os persegue para impedir o assalto milionário que estão planejando. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "Comer, Rezar, Ladrar (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44768c05315519e8fdd7a4f117b13451c0e7f96d&",
+  "imagem": "https://image.tmdb.org/t/p/original/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/xqM9p5t7qop0Fx60zOYcv0Yw7SX.png",
+  "sinopse": "[COLOR yellow]Comédia[/COLOR]\nNesta comédia tumultuosa, cinco donos de cães excêntricos procuram ajuda para lidar com os seus amigos de quatro patas. A sua última esperança: um curso intensivo com o carismático e lendário treinador de cães Nodon nas montanhas tirolesas. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "Inteligência Humana (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5712ecd290d8ab342ac32ec2d80cd031f61414aa&",
+  "imagem": "https://image.tmdb.org/t/p/original/zmv8yxTmswmMZk7mUktzY9wWXcO.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/aWS8heTW7M989yEg0TArA5tRJDm.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/z96YCEShOq2ibf3XPsLxtgOQWwi.png",
+  "sinopse": "[COLOR yellow]Ação, Drama, Suspense[/COLOR]\nAo investigar um cartel russo, um agente sul-coreano fica cara a cara com um agente norte-coreano, e ambos são dragados por perigos e segredos. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+{
+  "nome": "Pânico 7 (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dde95d297033485d2587f76af84df32cfcd47fd3&",
+  "imagem": "https://image.tmdb.org/t/p/original/rEevavl5vebCVEd5imx7D1k8nmV.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/5g72qKCTW85O3MPmnyfYRNp0Ak5.png",
+  "sinopse": "[COLOR yellow]Terror, Mistério, Suspense[/COLOR]\nQuando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+    {
   "nome": "18 Rosas (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2190126c6628bfe7553e3f39122fbc37f1d8485d&",
   "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
@@ -9,7 +49,7 @@
   "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nNeste romance de amadurecimento, o aluno novo entra em conflito com a garota mais popular da escola. Mas ele logo percebe que vai precisar dela para várias coisas.",
   "legenda": "",
   "tipo": "filme"
- },
+ }, 
     {
   "nome": "Consequência (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e55c732089b9441861af17724a11dcf2b2f223&",
