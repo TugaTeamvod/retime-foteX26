@@ -1,22 +1,15 @@
 {
   "episodios": [
 {
-  "nome": "Agente Zeta (2026)",
-  "url": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYubWt2",
-  "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/jtO2Mm5X22QmJZH8YyUMmG0ZXOV.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
-  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da “Operação Ciénaga” décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a “Ciénaga” do que ele.",
-  "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
+  "nome": "18 Rosas (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2190126c6628bfe7553e3f39122fbc37f1d8485d&",
+  "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nNeste romance de amadurecimento, o aluno novo entra em conflito com a garota mais popular da escola. Mas ele logo percebe que vai precisar dela para várias coisas.",
+  "legenda": "",
   "tipo": "filme"
- },
+ }
 
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
-      "tipo": "filme"
-    }
   ]
 }
