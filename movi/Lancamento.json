@@ -1,16 +1,6 @@
 {
   "episodios": [
     {
-  "nome": "O Atirador: Sem Nação (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0123bb969ddd0a1d7ecb0495c293c5bee1eb6a48&",
-  "imagem": "https://image.tmdb.org/t/p/original/gGhjs14pomQA6N8parCw5Bl3qoh.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/2R6hoW67kT8poPTpN5HEpimLc3C.png",
-  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nO atirador Brandon Beckett considerado terrorista, e rejeitado, pelo seu próprio país, vê-se forçado a embarcar numa missão impossível ao lado do seu lendário pai. Sem apoio, sem fronteiras e sem regras, os Beckett têm de enfrentar a Legião de Ferro, um exército mercenário implacável, para impedir que um regime corrupto inicie uma guerra - e provar que mesmo sem bandeira, a luta ainda importa.",
-  "legenda": "",
-  "tipo": "filme"
- },
-    {
   "nome": "18 Rosas (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2190126c6628bfe7553e3f39122fbc37f1d8485d&",
   "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
