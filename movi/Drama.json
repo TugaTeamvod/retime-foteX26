@@ -1,6 +1,16 @@
 {
   "episodios": [
 {
+  "nome": "Caminhos do Crime (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:906e5edb84a9fcf3ace6a8ecdf2402bf27785791&",
+  "imagem": "https://image.tmdb.org/t/p/original/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/biJM58Ih5jxjKN9Wiwp4NHXohks.png",
+  "sinopse": "[COLOR yellow]Crime, Drama, Suspense[/COLOR]\nUm ladrão prestes a realizar seu último grande golpe cruza o caminho de uma corretora de seguros desiludida. Enquanto os dois se envolvem, um detetive implacável os persegue para impedir o assalto milionário que estão planejando. ",
+  "legenda": "",
+  "tipo": "filme"
+ },    
+{
   "nome": "18 Rosas (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2190126c6628bfe7553e3f39122fbc37f1d8485d&",
   "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
