@@ -1,5 +1,15 @@
 {
   "episodios": [
+  {
+  "nome": "Consequência (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e55c732089b9441861af17724a11dcf2b2f223&",
+  "imagem": "https://image.tmdb.org/t/p/original/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/2YfnhVGu8bNFoQBpKqnPfTn8ys0.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7THokFo8SbOzRHazxokig4YRMgs.png",
+  "sinopse": "[COLOR yellow]Comédia, Drama|[/COLOR]\nReef Hawk, o queridinho de Hollywood desde os seis anos, não está bem. Ao descobrir um plano de extorsão ligado a um vídeo misterioso, Reef decide embarcar em uma jornada de redenção para se retratar, confrontar seus demônios e evitar o cancelamento.",
+  "legenda": "",
+  "tipo": "filme"
+ },  
 {
   "nome": "(Des)controle (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:323a60bdeeb025089c869a3d1441aaf66d582c46&",
