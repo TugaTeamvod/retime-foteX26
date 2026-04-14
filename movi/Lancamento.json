@@ -141,6 +141,16 @@
   "tipo": "filme"
  },
   {
+  "nome": "Dupla Perigosa (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a81f13b1998912615a3042bf14c6dd332da0354&",
+  "imagem": "https://image.tmdb.org/t/p/original/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7bDTJPWg3BWvoSa5fgS06AtfaCU.png",
+  "sinopse": "[COLOR yellow]Ação, Comédia, Crime[/COLOR]\nUma dupla improvável de meio-irmãos, um detetive impulsivo e outro disciplinado, é atraída pelo assassinato de seu pai no Havaí, levando-os a uma jornada perigosa para desmascarar uma conspiração de longo alcance.",
+  "legenda": "",
+  "tipo": "filme"
+ },  
+  {
   "nome": "Dinheiro Suspeito (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5482546990ecbd2b89849fe8cfa93b0efd64ce9&",
   "imagem": "https://image.tmdb.org/t/p/original/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
