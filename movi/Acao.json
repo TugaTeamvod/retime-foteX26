@@ -29,7 +29,17 @@
   "sinopse": "[COLOR yellow]Ação, Aventura, Drama[/COLOR]\nNo Caribe do século XIX, uma ex-pirata tenta deixar o passado para trás e viver em paz. Mas quando sua ilha e sua família são ameaçadas, Ercell Bodden é forçada a voltar ao mundo que jurou abandonar. Para sobreviver, ela terá que enfrentar sua antiga tripulação, agora liderada por um pirata implacável, e provar que algumas lendas nunca morrem.",
   "legenda": "",
   "tipo": "filme"
- },   
+ },
+  {
+  "nome": "Oblivion (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:598b21942f1f27a2dff4d29417624ad4470754cc&",
+  "imagem": "https://image.tmdb.org/t/p/original/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/dZmN2zjB1ehI6GxHs2DgXeSBeA6.png",
+  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nJack Harper, um reparador de drones trabalhando na Terra que foi devastada pela guerra com extraterrestres, começa a questionar o que sabe sobre sua missão e sobre si mesmo.",
+  "legenda": "",
+  "tipo": "filme"
+ },  
   {
   "nome": "Dupla Perigosa (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a81f13b1998912615a3042bf14c6dd332da0354&",
