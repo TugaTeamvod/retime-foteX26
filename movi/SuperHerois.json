@@ -1,5 +1,25 @@
 {
   "episodios": [
+  {
+  "nome": "Thunderbolts* (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e281f3a2b8aaec37529da78c2e2cf40807df7261&",
+  "imagem": "https://image.tmdb.org/t/p/original/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/majLMXfIqGaoQS3K66aKrNld0Vg.png",
+  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nEm Thunderbolts, Yelena faz parte de uma equipe composta por ex-supervilões redimidos, prontos para agir em nome de causas controversas. Thunderbolts traz uma nova abordagem ao explorar personagens desajustados e suas lutas internas, enquanto enfrentam desafios de alto risco para o governo, misturando ação, humor e dilemas morais.",
+  "legenda": "",
+  "tipo": "filme"
+ },  
+ {
+  "nome": "Superman (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25f1876dc1c2d516ad7263a7025eec856db98126&",
+  "imagem": "https://image.tmdb.org/t/p/original/xeZ8oG6W60fEPf9yCjERUXiHRBF.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/4n2XmYzjNfCsIhy1AYjPC48hzT.png",
+  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nUm herói movido pela crença e pela esperança na bondade da humanidade. Em Superman, acompanhamos a jornada do super-herói em tentar conciliar suas duas personas: sua herança extraterrestre como kryptoniano e sua vida humana, criado como Clark Kent (David Corenswet) na cidade de Smallville no Kansas. Dirigido por James Gunn, o novo filme irá reunir personagens, heróis e vilões clássicos da história de Superman, como Lex Luthor (Nicholas Hoult), Lois Lane (Rachel Brosnahan), Lanterna Verde (Nathan Fillion), Mulher-Gavião (Isabela Merced), entre outros. O chamado de Superman será colocado à prova através de uma série de novas aventuras épicas e diante de uma sociedade que enxerga seus valores de justiça e verdade como antiquados.",
+  "legenda": "",
+  "tipo": "filme"
+ },   
 {
   "nome": "Quarteto Fantástico: Primeiros Passos (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea3c653e7366648ad74dee20e09fdce6af174ba&",
