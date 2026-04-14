@@ -19,7 +19,17 @@
   "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nO atirador Brandon Beckett considerado terrorista, e rejeitado, pelo seu próprio país, vê-se forçado a embarcar numa missão impossível ao lado do seu lendário pai. Sem apoio, sem fronteiras e sem regras, os Beckett têm de enfrentar a Legião de Ferro, um exército mercenário implacável, para impedir que um regime corrupto inicie uma guerra - e provar que mesmo sem bandeira, a luta ainda importa.",
   "legenda": "",
   "tipo": "filme"
- }
+ },
+ {
+  "nome": "Dinheiro Suspeito (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5482546990ecbd2b89849fe8cfa93b0efd64ce9&",
+  "imagem": "https://image.tmdb.org/t/p/original/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/kEZOMElotWMdZRVH3VX7wN8mNrS.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7Jla17N95mAs09g56QGOL6W3qW3.png",
+  "sinopse": "[COLOR yellow]Ação, Drama, Suspense[/COLOR]\nUma equipe de policiais de Miami encontra milhões de dólares em um esconderijo abandonado, acabando com a confiança entre eles. Quando outras forças descobrem o tamanho da apreensão, a história toda é colocada em dúvida. Agora, ninguém pode confiar em ninguém. ",
+  "legenda": "",
+  "tipo": "filme"
+ }   
     
   ]
 }
