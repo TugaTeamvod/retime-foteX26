@@ -49,7 +49,17 @@
   "sinopse": "[COLOR yellow]Ação, Comédia, Crime[/COLOR]\nUma dupla improvável de meio-irmãos, um detetive impulsivo e outro disciplinado, é atraída pelo assassinato de seu pai no Havaí, levando-os a uma jornada perigosa para desmascarar uma conspiração de longo alcance.",
   "legenda": "",
   "tipo": "filme"
- },  
+ },
+ {
+  "nome": "Tron: Ares (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb16bba9c9fdffdc3264616a2b77b9f94914e4d8&",
+  "imagem": "https://image.tmdb.org/t/p/original/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/7UspqHHaW6fGoWsjV7w32GFxuft.png",
+  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção-Científica[/COLOR]\nUm programa altamente sofisticado, Ares, é enviado do mundo digital para o mundo real em uma missão perigosa, marcando o primeiro encontro da humanidade com seres de I.A.",
+  "legenda": "",
+  "tipo": "filme"
+ },   
  {
   "nome": "Dinheiro Suspeito (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5482546990ecbd2b89849fe8cfa93b0efd64ce9&",
