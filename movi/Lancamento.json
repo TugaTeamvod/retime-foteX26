@@ -1,5 +1,15 @@
 {
   "episodios": [
+    {
+  "nome": "O Último Conquistador (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d63480c8bfff2cd7e098bae44e6022eee725ff4c&",
+  "imagem": "https://image.tmdb.org/t/p/original/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/8LQeFgjYZRLG6mZLYAiwRVIueqj.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Ação, Aventura, Guerra[/COLOR]\nEnquanto o Império Mongol desmorona, Timur Barlas, com cicatrizes de batalha, deve enfrentar um destino assustador e renunciar à sua lealdade para proteger o destino da Rota da Seda. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
         {
   "nome": "18 Rosas (2026)",
   "url": "https://tugateamvod:Pmsp%4021111964@cat.seedhost.eu/tugateamvod/downloads/Brasil/18%20Rosas.2026.mkv",
