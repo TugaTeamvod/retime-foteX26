@@ -1,5 +1,15 @@
 {
   "episodios": [
+ {
+  "nome": "Bola pra Cima (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:298e08982d7fb43c802826e257bef60cc1f5ada5&",
+  "imagem": "https://image.tmdb.org/t/p/original/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/lwzKV2DGEvSWbwSAmSoRTkilKJb.png",
+  "sinopse": "[COLOR yellow]Ação, Comédia, Crime[/COLOR]\nNesta comédia, os executivos de marketing Brad e Elijah se arriscam e apresentam uma proposta de patrocínio ousado de uma marca de preservativos para a Copa do Mundo. Quando a comemoração no Brasil provoca um escândalo global, eles precisam fugir de torcedores furiosos, criminosos e dirigentes ambiciosos para salvar suas carreiras e voltar para casa vivos.",
+  "legenda": "",
+  "tipo": "filme"
+ },   
   {
   "nome": "O Último Conquistador (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d63480c8bfff2cd7e098bae44e6022eee725ff4c&",
