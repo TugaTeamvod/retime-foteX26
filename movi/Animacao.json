@@ -1,6 +1,16 @@
 {
   "episodios": [
 {
+  "nome": "Charlie: O Cão Maravilha (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d63480c8bfff2cd7e098bae44e6022eee725ff4c&",
+  "imagem": "https://image.tmdb.org/t/p/original/vsFsD57Z3y2GWKY7JDLoZhwXHKt.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/x0D2AcsssMSfKv9AIKOZUdbsbof.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/msJ3XmsaP2Cwn9NgZmGI2ARCJhg.png",
+  "sinopse": "[COLOR yellow]Animação, Ação, Aventura[/COLOR]\nSasha, um garoto tímido de 9 anos, se junta ao cachorro de sua família, que é abduzido por alienígenas e retorna com superpoderes, para frustrar um plano do gato sinistro do vizinho de destruir a humanidade.",
+  "legenda": "",
+  "tipo": "filme"
+ },    
+{
   "nome": "Arco (2025)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff6e4ff829e67bf6743f43d2a1356b3513723e7f&",
   "imagem": "https://image.tmdb.org/t/p/original/agkPfqKgwA8M3OSkrkTGk9zzm72.jpg",
