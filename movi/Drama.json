@@ -1,6 +1,16 @@
 {
   "episodios": [
 {
+  "nome": "180 (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eb19a012c489535eb7ea5e4db4b530924389e6b&",
+  "imagem": "https://image.tmdb.org/t/p/original/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/hZcAT9ncLLGnUEC6Pe6uYWdhtrE.png",
+  "sinopse": "[COLOR yellow]Drama, Suspense[/COLOR]\nDepois que um desentendimento no trânsito sai do controle, uma gangue de taxistas violentos e um pai em luto embarcam em uma briga implacável.",
+  "legenda": "",
+  "tipo": "filme"
+ },    
+{
   "nome": "Caminhos do Crime (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:906e5edb84a9fcf3ace6a8ecdf2402bf27785791&",
   "imagem": "https://image.tmdb.org/t/p/original/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
