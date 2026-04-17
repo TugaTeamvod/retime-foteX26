@@ -1,5 +1,15 @@
 {
   "episodios": [
+   {
+  "nome": "Vingança Brutal (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7aa9ace10a5b1e71f9124ede60eee1dd133497&",
+  "imagem": "https://image.tmdb.org/t/p/original/lIjRieKxDXaifeFc4RJ4h8Pr6cn.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/jtRy0DCwOdX4dmtjWnPqoF84Gmr.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/wzr8hEGycdF2cL7ILQ3MUqJRPkF.png",
+  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuando sua esposa é brutalmente assassinada, Carlos Estrada, herói condecorado das forças especiais, passa a viver com apenas um propósito: vingança. Depois que uma reviravolta do destino o torna um milionário, Carlos transforma sua fortuna em um arsenal e, com seus soldados de maior confiança, inicia uma caçada incansável pelos responsáveis. ",
+  "legenda": "",
+  "tipo": "filme"
+ }, 
   {
   "nome": "Alerta Apocalipse (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011c4859efcb735bd5b535b23e7ac08b41c766f2&",
