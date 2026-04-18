@@ -99,6 +99,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/1Fsu4SQPQloCSdb3rETMPe8BMXs.jpg",
           "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nMatt Murdock, um advogado cego com capacidades melhoradas, luta pela justiça através da sua popular firma de advogados, enquanto o antigo líder da máfia Wilson Fisk persegue os seus próprios objetivos políticos em Nova Iorque. Quando as identidades passadas de ambos começam a emergir, os dois homens acabam numa inevitável rota de colisão.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Pacificador (2022)",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Demolidor.json",
+          "imagem": "https://image.tmdb.org/t/p/original/7OzNhrI8CwMkeTmqdVRPFZK2bkN.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/q7YHckbOAcGplmD3YIH7nMESQ2l.jpg",
+          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nCriada por James Gunn, esta série dá continuidade à saga do Peacemaker, um herói/anti-herói presunçoso que acredita na paz a qualquer custo — mesmo que isso signifique matar quem for preciso. Depois de uma recuperação milagrosa do seu duelo com Bloodsport, o Peacemaker descobre rapidamente que a sua liberdade tem um preço.",
+          "tipo": "serie"
         }
       ]
     }
