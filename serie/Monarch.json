@@ -90,14 +90,17 @@
   "legenda": "",
   "tipo": "filme"
  },   
-   
+{
+  "nome": "2ª Temporada EPISÓDIO 01: (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a82be2a80bd0111c6a0cd05fbc287fccd4cc0403&",
+  "imagem": "https://image.tmdb.org/t/p/original/reJ0kHd3DIp2bHQZAmLiqoTPnfw.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/lo2L1mZsUblOYfC09qAnundSCTx.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/e29dSHD751sTGGTDSwQ6NNFQGDm.png",
+  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nA segunda temporada começa com o destino da Monarch — e do mundo — em jogo. Segredos enterrados são revelados, reunindo nossos heróis (e vilões) na Ilha da Caveira de Kong, e em uma nova e misteriosa vila onde um Titã mítico emerge do mar. Os efeitos do passado reverberam no presente, diluindo os laços entre família, amigos e inimigos — tudo isso sob a ameaça de um evento Titã no horizonte. ",
+  "legenda": "",
+  "tipo": "filme"
+ }
 
-    {
-      "nome": "2ª Temporada",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
-      "tipo": "filme"
-    }
+    
   ]
 }
