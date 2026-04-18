@@ -1,15 +1,15 @@
 {
   "episodios": [
 {
-  "nome": "A Astronauta (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=",
-  "imagem": "https://capa.jpg",
-  "fanart": "https://fundo.jpg",
-  "clearlogo": "https://fundo.jpg",
-  "sinopse": "[COLOR yellow]Comédia|[/COLOR]\n ",
+  "nome": "1ª Temporada 9 EPISÓDIOS (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef63c35832e876a59f9cf4cfa08af45d89c72fc&",
+  "imagem": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png",
+  "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nAs novas aventuras do Demolidor no Universo Cinematográfico Marvel. Dessa vez, Matt Murdock precisa impedir o Rei do Crime, que se tornou o novo prefeito de New York. ",
   "legenda": "",
   "tipo": "filme"
- }    
+ },   
     
   ]
 }
