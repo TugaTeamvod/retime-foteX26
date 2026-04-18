@@ -29,7 +29,18 @@
   "sinopse": "[COLOR yellow]Ação, Aventura, Guerra[/COLOR]\nEnquanto o Império Mongol desmorona, Timur Barlas, com cicatrizes de batalha, deve enfrentar um destino assustador e renunciar à sua lealdade para proteger o destino da Rota da Seda. ",
   "legenda": "",
   "tipo": "filme"
- },  
+ },
+ {
+  "nome": "O Contador 2 (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:919b8df3651b49675111471f46bd319d0c977cf8&",
+  "imagem": "https://image.tmdb.org/t/p/original/qVpB7Y2tX9pbMzQW016qSWQ7OD5.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/bZyQ8BMKRcJe92tVxZo0GFcJ6Go.png",
+  "sinopse": "[COLOR yellow]Ação, Crime, Mistério, Suspense[/COLOR]\nDe volta à ação, em O Contador 2 Christian Wolff (Ben Affleck) é recrutado pela agente do tesouro americano Marybeth Medina (Cynthia Addai-Robinson) para resolver mais um caso perigoso após o ex-chefe de Wolf ser assassinado por criminosos desconhecidos. Para solucionar o mistério dessa morte, Wolff pede a ajuda de seu irmão distante Brax e novamente usa seu brilhantismo e seus métodos ilegais para entender esse quebra-cabeça enigmático. Quanto mais próximo os três se aproximam da verdade, mais ameaças surgem, com um grupo de matadores profissionais e altamente letais fazendo de tudo para impedi-los. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+   
  {
   "nome": "Inteligência Humana (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5712ecd290d8ab342ac32ec2d80cd031f61414aa&",
