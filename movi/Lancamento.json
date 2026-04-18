@@ -1,6 +1,16 @@
 {
   "episodios": [
   {
+  "nome": "Mardaani 3 (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edc19a20869c56ece85579d3b49cb36f10be24de&",
+  "imagem": "https://image.tmdb.org/t/p/original/odEZ7CY6TlELZHptwEyNy65XaRg.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Ação, Crime, Suspense[/COLOR]\nÉ uma corrida contra o tempo e não haverá piedade. Shivani Shivaji Roy está de volta para resgatar garotas que desaparecem sem deixar rasto.",
+  "legenda": "",
+  "tipo": "filme"
+ },  
+  {
   "nome": "180 (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eb19a012c489535eb7ea5e4db4b530924389e6b&",
   "imagem": "https://image.tmdb.org/t/p/original/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
