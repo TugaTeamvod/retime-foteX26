@@ -29,6 +29,16 @@
   "sinopse": "[COLOR yellow]Ação, Comédia, Crime[/COLOR]\nNesta comédia, os executivos de marketing Brad e Elijah se arriscam e apresentam uma proposta de patrocínio ousado de uma marca de preservativos para a Copa do Mundo. Quando a comemoração no Brasil provoca um escândalo global, eles precisam fugir de torcedores furiosos, criminosos e dirigentes ambiciosos para salvar suas carreiras e voltar para casa vivos.",
   "legenda": "",
   "tipo": "filme"
+ },
+ {
+  "nome": "Miami Vice (2006)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfeab27f78feba5ad6edaef76c74cd85025ed1fd&",
+  "imagem": "https://image.tmdb.org/t/p/original/l2BYL9gMZ9IH9MbykTGqfVnNNpb.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/lV2UQv1qmiZA0tWsVjgFLD6z2uG.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/lPdn7FTjiamST2T2EAa70GHAyhO.png",
+  "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nJames “Sonny” Crockett (Colin Farrell) e Ricardo Tubbs (Jamie Foxx) são detetives que trabalham juntos, investigando o tráfico de drogas nos Estados Unidos. Após um plano do FBI dar errado, eles são chamados para uma operação secreta que tem por objetivo capturar Arcángel de Jesús Montoya (Luis Tosar), poderoso traficante que controla seus negócios diretamente do Haiti. Sonny e Tubbs se disfarçam como transportadores, no intuito de serem os responsáveis pela entrada das drogas de Montoya nos Estados Unidos. Em meio às negociações Sonny se envolve com Isabella (Gong Li), braço-direito de Montoya. ",
+  "legenda": "",
+  "tipo": "filme"
  },   
   {
   "nome": "O Último Conquistador (2026)",
