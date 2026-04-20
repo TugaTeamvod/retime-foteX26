@@ -1,6 +1,16 @@
 {
   "episodios": [
   {
+  "nome": "Uma Segunda Chance (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ea7c0b5f34911188d992bee1e645cd8998abef6&",
+  "imagem": "https://image.tmdb.org/t/p/original/yC3byha23vhC2GMR139p4W42n36.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/sCse8Ng1BBOYkqyC8dJbqDJgEO4.png",
+  "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nO best-seller de Colleen Hoover se torna um filme inspirador sobre maternidade, perdão e o poder do amor de superar até o pior erro. Desesperada para reconstruir a vida com a filha que nunca conheceu, Kenna se depara com uma compaixão inesperada num romance secreto com Ledger, dono de um bar. Conforme os perigos crescem para ambos, ela espera ter uma segunda chance em meio a uma dor insuportável. ",
+  "legenda": "",
+  "tipo": "filme"
+ },  
+  {
   "nome": "Mardaani 3 (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edc19a20869c56ece85579d3b49cb36f10be24de&",
   "imagem": "https://image.tmdb.org/t/p/original/odEZ7CY6TlELZHptwEyNy65XaRg.jpg",
