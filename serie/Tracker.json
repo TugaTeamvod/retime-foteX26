@@ -1,7 +1,7 @@
 {
   "episodios": [
 {
-  "nome": "1ª Temporada 10: EPISÓDIOS (2024)",
+  "nome": "1ª Temporada 13: EPISÓDIOS (2024)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56d1b05e1d4e67fc4f985a69c9e41cbfe6ed7583&",
   "imagem": "https://image.tmdb.org/t/p/original/4HGn3xNtkA8AfC026eJq8BvEYLv.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/uVnGusAwehV4WdxgKwFg0UJql1R.jpg",
@@ -10,6 +10,46 @@
   "legenda": "",
   "tipo": "filme"
  },
+ {
+  "nome": "2ª Temporada 20: EPISÓDIOS (2024)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb7cf6e0221450ae4d85512fcec350035aa5be7&",
+  "imagem": "https://image.tmdb.org/t/p/original/xvtWn3DfjiN6fBfOZmpJYfFNufr.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/8n7gxv185LcKTtJZsv3ltSohByH.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/90ZA0cCOU0Wo3tXoGQZgCeqb8Ov.png",
+  "sinopse": "[COLOR yellow]Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+ {
+  "nome": "3ª Temporada EPISÓDIOS 01 AO 07: (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8939bfa2ac8f945b407e61cd4dfff4c6ee325ad1&",
+  "imagem": "https://image.tmdb.org/t/p/original/yz07AzFsbUhc069QPmpRQLEXa9O.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/5a7IleMZGoyaPDNnMIIwoZmWy73.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/90ZA0cCOU0Wo3tXoGQZgCeqb8Ov.png",
+  "sinopse": "[COLOR yellow]Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+ {
+  "nome": "3ª Temporada EPISÓDIOS 08 AO 09: (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb965801fd0bce8b5ac9cc8def04d80b809168c&",
+  "imagem": "https://image.tmdb.org/t/p/original/yz07AzFsbUhc069QPmpRQLEXa9O.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/5a7IleMZGoyaPDNnMIIwoZmWy73.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/90ZA0cCOU0Wo3tXoGQZgCeqb8Ov.png",
+  "sinopse": "[COLOR yellow]Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo. ",
+  "legenda": "",
+  "tipo": "filme"
+ },
+ {
+  "nome": "3ª Temporada EPISÓDIOS 10 AO 11: (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad8e321b66c7735ff8dcab11e0a557c100b6b37e&",
+  "imagem": "https://image.tmdb.org/t/p/original/yz07AzFsbUhc069QPmpRQLEXa9O.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/5a7IleMZGoyaPDNnMIIwoZmWy73.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/90ZA0cCOU0Wo3tXoGQZgCeqb8Ov.png",
+  "sinopse": "[COLOR yellow]Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo. ",
+  "legenda": "",
+  "tipo": "filme"
+ }   
 
  ]
 
