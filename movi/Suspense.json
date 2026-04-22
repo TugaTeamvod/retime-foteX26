@@ -10,13 +10,17 @@
   "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
   "tipo": "filme"
  },
+ {
+  "nome": "Mar em Chamas (2021)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4516FB0E673F45B6C7EF24CA5C0BD3BEF31CE5D3&",
+  "imagem": "https://image.tmdb.org/t/p/original/cB8NcMTwI5lnMkar7ODK0UFVUBL.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/9JLl9UYkcWbkLWWHtzuVB6fc9Qr.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/xtEXoMMW6azoainpVwVrQQx75A8.png",
+  "sinopse": "[COLOR yellow]Suspense, Drama[/COLOR]\nDos produtores de Terremoto. A exploração de petróleo começa a trazer consequências ambientais causando o colapso de uma plataforma. Uma piloto de submarino e pesquisadora fará de tudo para salvar o local de uma catastrofe iminente.",
+  "legenda": "",
+  "tipo": "filme"
+ }   
 
-    {
-      "nome": "1x02 - Nome do Episódio 2",
-      "url": "plugin://plugin.video.elementum/play?uri=LINK_TORRENT_EP2",
-      "imagem": "https://thumb-do-episodio.jpg",
-      "sinopse": "Resumo do episódio 2.",
-      "tipo": "filme"
-    }
+
   ]
 }
