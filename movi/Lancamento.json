@@ -149,7 +149,17 @@
   "sinopse": "[COLOR yellow]Drama, Romance[/COLOR]\nNeste romance de amadurecimento, o aluno novo entra em conflito com a garota mais popular da escola. Mas ele logo percebe que vai precisar dela para várias coisas.",
   "legenda": "",
   "tipo": "filme"
- }, 
+ },
+ {
+  "nome": "Terror em Silent Hill: Regresso para o Inferno (2026)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e4a28f55f09ef87b662973c818ad3ccc5c6fb79&",
+  "imagem": "https://image.tmdb.org/t/p/original/7aoMkiW85yn54oga0jHTzAkXgj3.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+  "clearlogo": "https://image.tmdb.org/t/p/original/uzteIXZd8Cgmjb0wuNoZBzUnksz.png",
+  "sinopse": "[COLOR yellow]Terror, Mistério[/COLOR]\nQuando uma carta misteriosa chama James de volta a Silent Hill em busca de seu verdadeiro amor, ele encontra uma cidade antes reconhecível, transformada por um mal desconhecido. À medida que James se aprofunda na escuridão, ele encontra figuras aterrorizantes, tanto familiares quanto novas, e começa a questionar sua própria sanidade enquanto luta para entender a realidade e se manter firme por tempo suficiente para salvar seu amor perdido. ",
+  "legenda": "",
+  "tipo": "filme"
+ },   
     {
   "nome": "Consequência (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e55c732089b9441861af17724a11dcf2b2f223&",
