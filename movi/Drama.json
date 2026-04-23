@@ -1,6 +1,16 @@
 {
   "episodios": [
 {
+  "nome": "One Chicago Crossover (2025)",
+  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a0901cb17672796d7dcd0bccadf4a3d34cccd49&",
+  "imagem": "https://universalplus.com.br/files/news/28849773.jpg",
+  "fanart": "https://deadline.com/wp-content/uploads/2024/11/One-Chicago.jpg",
+  "clearlogo": "",
+  "sinopse": "[COLOR yellow]Drama[/COLOR]\nQuando uma explosão de gás abala um arranha-céu, os socorristas de Chicago saem para resgatar centenas de civis. No entanto, é a calamidade abaixo da superfície que leva nossos heróis a uma corrida para salvar 40 pessoas presas no subsolo, incluindo duas delas. ",
+  "legenda": "",
+  "tipo": "filme"
+ },    
+{
   "nome": "Uma Segunda Chance (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ea7c0b5f34911188d992bee1e645cd8998abef6&",
   "imagem": "https://image.tmdb.org/t/p/original/yC3byha23vhC2GMR139p4W42n36.jpg",
