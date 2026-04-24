@@ -1,15 +1,6 @@
 {
   "episodios": [
-    {
-  "nome": "teste (2026)",
-  "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy8xOCUyMFJvc2FzLjIwMjYubWt2",
-  "imagem": "https://image.tmdb.org/t/p/original/nKLZ5DZSHfUKHx2aZPHLSYAue7K.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/s3sJ6kI3PuaNF3eiaH29HdIWND6.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/bnQl8P74NUBOk7v4Kw2ND8Aqh1s.png",
-  "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuando uma viciada em adrenalina se propõe a conquistar um rio ameaçador, ela descobre que a natureza não é a única coisa que procura sangue. ",
-  "legenda": "",
-  "tipo": "filme"
- },  
+  
   {
   "nome": "O Jogo do Predador (2026)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59340c166ce5b1f763a0f0d5f316d28c748900ed&",
