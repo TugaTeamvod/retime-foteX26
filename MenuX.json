@@ -6,6 +6,12 @@
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
         {
+          "nome": "4k",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Lancamento.json",
+          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+          "tipo": "serie"
+        },
+        {
           "nome": "Lançamentos",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/main/movi/Lancamento.json",
           "imagem": "https://i.postimg.cc/ncWGpXHq/Copilot-20260322-011929.png",
